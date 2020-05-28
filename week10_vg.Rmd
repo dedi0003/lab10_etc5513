@@ -1,0 +1,15 @@
+---
+title: "week10_vg"
+author: "Dea Avega Editya"
+date: "5/28/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(dplyr)
+library(ggplot2)
+```
+
+
